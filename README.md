@@ -91,7 +91,6 @@ Such a use case, including an example SSH command to bootstrap this, has been do
 
 ```yaml
 services:
-
   pcap-broker-remote-host:
     image: pcap-broker:latest
     container_name: pcap-broker-remote-host
